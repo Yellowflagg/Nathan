@@ -111,6 +111,87 @@
 
 ---
 
+---
+
+## 2e série de photos — 10/08/2026 (regards + tableau capot ouvert)
+
+### BLOQUANT
+
+#### C-17 — Tableau électrique, capot ouvert — **révision à la hausse du lot élec**
+**Constat** — 13 disjoncteurs Hager sur une rangée, étiquettes manuscrites lisibles :
+
+| Protection | Calibre | Affectation portée à l'étiquette |
+|---|---|---|
+| C10 | 10 A | Protection lumière buanderie |
+| C32 | 32 A | Protection garage + PC buanderie |
+| N°22-U | 20 A | Cuisinière |
+| N°17-U | 15 A | Prises frigo / hotte |
+| N°17-U | 15 A | Prises (2) cuisine + **S. Bain sur réglette** |
+| N°17-U | 15 A | Prises séjour / chambre |
+| N°17-U | 15 A | Prises lave-linge |
+| N°12-U | 10 A | Convecteur chambre |
+| N°12-U | 10 A | Convecteur séjour |
+| N°12-U | 10 A | Convecteur cuisine |
+| N°12-U | 10 A | Convecteur salle de bain |
+| N°12-U | 10 A | Éclairage S. Bain, WC, (2) cuisine |
+| N°12-U | 10 A | Éclairage chambre, séjour, extérieur |
+
+**Diagnostic** — trois éléments datent l'installation et la disqualifient :
+
+1. **Tous les appareils sont marqués « 220 V~ »**, avec la nomenclature Hager N°12-U / N°17-U / N°22-U. Le 220 V a été remplacé par le 230 V à partir de 1986. **L'installation est des années 1980**, pas des années 1990-2000 comme estimé sur la première photo.
+2. **Aucun interrupteur différentiel 30 mA visible sur la rangée.** Sur une installation de cette génération, la seule protection différentielle est le 500 mA du disjoncteur de branchement — **très insuffisant pour protéger les personnes**. C'est le point de non-conformité majeur.
+3. **Calibres obsolètes** : prises sur 15 A (norme actuelle 16 A avec section adaptée), cuisinière sur 20 A (32 A exigés pour une plaque), et surtout **« S. Bain sur réglette »** — des prises alimentées depuis une réglette d'éclairage dans une pièce d'eau. Non-conformité classique et dangereuse.
+
+**Gravité** : BLOQUANT — sécurité des personnes
+**Action immédiate** : **ne pas remettre l'installation sous tension en l'état.** Le tableau est à remplacer intégralement, ce n'est pas discutable.
+**Nuance budgétaire favorable** : le remplacement du tableau n'implique pas mécaniquement une **refonte totale du câblage**. La maison étant en parpaing des années 80, les conducteurs sont vraisemblablement sous fourreau et **ré-aiguillables**. À vérifier par un électricien : c'est l'écart entre une mise en sécurité (~1 500–3 000 €) et une refonte complète (5 000–10 500 € HT).
+**Correction assumée** : ma lecture de la 1re photo, capot fermé, était trop optimiste.
+
+#### C-19 — Assainissement — configuration ancienne, très probablement non conforme
+**Constats croisés** (photos + observations du maître d'ouvrage) :
+- Un regard donne sur un **couvercle circulaire béton à 8 segments radiaux**, avec une canalisation en attente — signature d'une **fosse** enterrée.
+- Un regard rectangulaire profond est **totalement sec**, avec un simple about de canalisation.
+- Deux regards contiennent de l'**eau noire stagnante**, avec débris et végétation (l'un en intérieur, l'autre à l'extérieur, sous dalle béton fissurée).
+- Un regard présente une **canalisation de fort diamètre avec déflecteur interne** — pièce de type siphon ou bac.
+- **Salle de bain** : s'écoule bien.
+- **Évier de cuisine** : s'écoule vers un regard extérieur, en **petit filet mousseux**.
+- **WC** : destination inconnue. Un regard reste fermé, inouvrable à la main.
+
+**Diagnostic** — l'ensemble dessine la configuration ancienne classique :
+**fosse septique recevant les seules eaux-vannes (WC) + eaux ménagères rejetées séparément vers un puisard.**
+
+Deux éléments l'étayent. La **mousse** signe un rejet d'eaux grises brutes, non traitées. L'**eau noire stagnante** signe un exutoire saturé ou bouché, qui n'infiltre plus.
+
+Cette configuration est **non conforme** au regard des règles actuelles, qui imposent une **fosse toutes eaux traitant l'intégralité des effluents**, suivie d'un dispositif de traitement. Le rejet direct d'eaux ménagères en puisard n'est plus admis.
+
+**Certitude** : forte présomption — **seul le contrôle SPANC fait foi**
+**Impact budgétaire** : réhabilitation ANC, **5 000 à 15 000 €** (source `05-reglementaire/cadre.md`), jusqu'à 20 000 € en terrain difficile
+**Rappel d'échéance** : le délai d'un an de mise en conformité après acquisition **court déjà** et n'est pas écartable par clause.
+
+**Actions, dans l'ordre :**
+1. **Test au colorant** — verser un colorant alimentaire ou de la fluorescéine dans la cuvette, tirer la chasse, puis observer chaque regard. Réponse définitive sur la destination des eaux-vannes, pour quelques euros.
+2. **Ouvrir le regard récalcitrant avec une clé de regard ou un crochet de levée**, jamais à la main ni au pied-de-biche : les dalles béton se cassent et blessent.
+3. **Appeler le SIEA de l'Est du Libournais** (compétent SPANC) : demander le **dernier rapport de contrôle**, et si une **opération groupée de réhabilitation** est en cours — c'est la seule voie vers le forfait de 4 200 €/logement de l'Agence de l'eau.
+
+⚠️ **Sécurité** : ne jamais descendre ni se pencher longuement au-dessus d'une fosse ouverte. La fermentation dégage du **H₂S**, mortel et anesthésiant pour l'odorat. Ouvrir, ventiler, observer de loin.
+
+### IMPORTANT
+
+#### C-18 — Coffret divisionnaire secondaire
+**Constat** : petit coffret étanche IP55 (Sapel) sur ossature bois, contenant 4 disjoncteurs **Legrand 01220 16 A**, un **C20**, un **Legrand 01205 10 A**. Aucun différentiel visible.
+**Diagnostic** : tableau divisionnaire, vraisemblablement pour la véranda ou une dépendance. **Même génération et même défaut que le tableau principal.**
+**Action** : à intégrer au lot mise en sécurité.
+
+#### C-21 — Chauffage : convecteurs électriques
+**Constat** : les étiquettes du tableau portent 4 départs « convecteur » — chambre, séjour, cuisine, salle de bain.
+**Diagnostic** : le chauffage est — ou était — **électrique par convecteurs**, tous sur 10 A. Combiné aux deux conduits de fumée (C-06, C-13) et à l'appareil gaz mural, cela fait **trois systèmes de chauffage successifs** sur le bien.
+**Point favorable** : depuis le 01/01/2026, le coefficient d'énergie primaire de l'électricité est passé de 2,3 à 1,9 — le chauffage électrique est nettement moins pénalisant au DPE qu'auparavant. **L'arbitrage énergie est à refaire sur cette base.**
+
+#### C-20 — Programme réel du logement
+**Constat** : les étiquettes ne mentionnent qu'**une chambre**, un séjour, une cuisine, une salle de bain, un WC, un garage, une buanderie et un extérieur.
+**Diagnostic** : pour 85 m², cela suggère **un T2 ou un petit T3**, avec une part importante de surface en annexes. À confirmer au plan.
+**Enjeu** : conditionne le nombre de points électriques à chiffrer, et la valeur locative si le bien est destiné à la location.
+
 ### COSMÉTIQUE
 
 - **C-07 — Cuisine** : faïence et carrelage en état. Évier ancien mais utilisable. Papiers peints datés dans les pièces sèches.
