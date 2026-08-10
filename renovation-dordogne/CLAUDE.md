@@ -47,6 +47,18 @@ Une estimation de budget selon **quatre scénarios** :
 - **Une donnée manquante se signale, elle ne s'invente pas.**
 - Aucun agent ne remplace un homme de l'art : toute suspicion structurelle ou d'humidité déclenche une recommandation d'expertise sur place.
 
+## ⚠️ Limite d'environnement constatée le 10/08/2026
+
+L'environnement d'exécution applique une **politique réseau restrictive** : seuls les dépôts de paquets (pypi, npm…) sont joignables. **`WebFetch` échoue en `EGRESS_BLOCKED` sur tous les domaines publics** (service-public.fr, georisques.gouv.fr, anil.org, batiprix.com, sites de distributeurs…). Vérifié par test direct : `service-public.fr` et `georisques.gouv.fr` renvoient un code 000, `pypi.org` renvoie 200.
+
+Conséquence sur ce projet :
+- Les agents de recherche ne disposent que de **`WebSearch`**, c'est-à-dire d'**extraits de résultats**, pas de lectures de pages complètes.
+- **Aucune source officielle ne peut être consultée** : ni le règlement du PPRI, ni géorisques, ni les barèmes d'aides sur service-public.fr / France Rénov'.
+- **Plafonner la confiance à « moyenne »** sur toute donnée obtenue dans ces conditions, et l'écrire. C'est ce qui a été fait pour les lots 01 et 02.
+- **Ne jamais présenter une règle de droit ou un barème d'aide obtenu par simple extrait de recherche comme établi.** Sur le réglementaire et les aides, l'écart entre un extrait et le texte applicable est trop coûteux.
+
+Pour lever la limite : changer la politique réseau de l'environnement sur claude.ai/code (voir https://code.claude.com/docs/en/claude-code-on-the-web). Tant qu'elle n'est pas levée, le PPRI et les aides doivent être vérifiés à la main par le maître d'ouvrage.
+
 ## Vigilances propres à ce bien
 
 - **Zone inondable** : bord de Dordogne → PPRI très probable. À vérifier sur `georisques.gouv.fr` avant tout le reste. Impacte les matériaux du RDC, la position du tableau électrique et des prises, l'assurabilité, la revente.
