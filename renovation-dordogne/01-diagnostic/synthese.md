@@ -192,6 +192,53 @@ Cette configuration est **non conforme** au regard des règles actuelles, qui im
 **Diagnostic** : pour 85 m², cela suggère **un T2 ou un petit T3**, avec une part importante de surface en annexes. À confirmer au plan.
 **Enjeu** : conditionne le nombre de points électriques à chiffrer, et la valeur locative si le bien est destiné à la location.
 
+---
+
+## 3e série — 10/08/2026 (stockage gaz + précisions du maître d'ouvrage)
+
+### CORRECTION — Comptage électrique
+
+**Le bien est équipé d'un compteur Linky** (confirmé par le maître d'ouvrage).
+Ce que j'avais identifié comme « compteur électronique ancien » sur la photo du placard technique est en réalité le **disjoncteur de branchement**. Le Linky est ailleurs, vraisemblablement en coffret de limite de propriété.
+
+**Conséquence** : la ligne E-09b s'applique — **mise en service à 1,80 € TTC**, à distance, et non les 32 à 77 € de la ligne E-09c. Le raccordement est immédiatement remobilisable.
+**Rappel** : raison de plus pour **ne pas résilier le contrat** — cela éviterait le déclenchement de plein droit du Consuel.
+
+### BLOQUANT
+
+#### C-23 — **Vol de métaux : réseaux coupés ET dérobés**
+**Constat** (maître d'ouvrage) : « certaines arrivées d'eau ont été coupées **et volées** », « certains câbles électriques ont été coupés ».
+**Diagnostic** : ce n'est pas de la dépose technique, c'est un **pillage de cuivre**, schéma classique sur un bien rural inoccupé. Trois conséquences en cascade :
+
+1. **Plomberie** — le réseau n'est pas « à reconnecter », il est **manquant par tronçons**. On passe d'une remise en service à une **repose de réseau**. La ligne 6 000–10 000 € du lot 02 est confirmée comme nécessaire, plus seulement probable.
+2. **Électricité** — remet en cause l'hypothèse favorable du constat C-17. Si les conducteurs ont été tirés hors des fourreaux, **le câble est à refaire intégralement**. Point favorable en compensation : des fourreaux vides se ré-aiguillent facilement, la main-d'œuvre reste raisonnable. On se cale sur le **milieu de fourchette**, pas sur la mise en sécurité seule.
+3. **Récidive** — un bien pillé une fois est un bien repéré. Le risque n'est pas passé, il est en cours.
+
+**Actions, par urgence :**
+- **Sécuriser le bien immédiatement** : serrures changées, ouvertures accessibles condamnées, retrait de tout ce qui a une valeur de revente au poids. Prévenir les voisins (dont la chambre d'hôtes du n° 1).
+- **Vérifier la couverture d'assurance** : la plupart des contrats multirisque **excluent ou plafonnent fortement** la garantie vol sur un logement inoccupé au-delà d'un certain délai. À vérifier avant tout autre arbitrage.
+- **Déposer plainte**, même sans espoir de retrouver quoi que ce soit : c'est la pièce exigée par l'assureur.
+- **Établir la date du vol** — avant ou après la signature ? Avant et non signalé, la question du vice caché ou de la délivrance conforme peut se poser auprès du notaire. Après, la perte est pour l'acquéreur.
+
+### IMPORTANT
+
+#### C-22 — Stockage gaz : propane en bouteilles
+**Constat** : abri maçonné à toiture de tuiles, fermé d'un grillage, contenant **2 grandes bouteilles de propane** (format ~35 kg). **2 bouteilles supplémentaires posées à même le sol à l'extérieur de l'abri**, non protégées. Robinet de puisage et canalisations apparentes sur le mur attenant.
+
+**Diagnostic** :
+- L'alimentation gaz est en **bouteilles de propane** — ni réseau, ni citerne. Cela clôt la question ouverte au constat C-06.
+- **Les bouteilles ne sont pas la propriété du bien.** Elles sont consignées : il y a soit une **consigne à récupérer**, soit un contrat à solder auprès du distributeur. Somme non négligeable sur 4 bouteilles de ce format.
+- **Les 2 bouteilles hors abri constituent un stockage non conforme** et un risque — vol, choc, exposition thermique.
+
+**Arbitrage énergie — la conclusion est nette** : le propane en bouteilles est l'énergie de chauffage la plus chère du marché français, avec en prime la manutention. Face à des convecteurs électriques déjà en place (C-21) et au **coefficient d'énergie primaire de l'électricité passé de 2,3 à 1,9 au 01/01/2026**, **il n'y a pas de raison de conserver le propane** autrement que pour la cuisson.
+
+**Actions** :
+- Relever le **distributeur et le numéro de collier** sur chaque bouteille.
+- Déterminer **pleines ou vides** (au poids : la tare est gravée sur le collier).
+- Organiser la **restitution et la récupération des consignes**.
+- En attendant, **rentrer les 2 bouteilles isolées dans l'abri**, debout, robinet fermé.
+- Faire vérifier l'appareil gaz mural (C-06) avant tout usage — ou acter sa dépose.
+
 ### COSMÉTIQUE
 
 - **C-07 — Cuisine** : faïence et carrelage en état. Évier ancien mais utilisable. Papiers peints datés dans les pièces sèches.
