@@ -12,8 +12,8 @@
 | Intercommunalité | Communauté de communes Castillon–Pujols *(à confirmer)* | aides locales, OPAH éventuelle |
 | Prix d'achat | 60 000 € | référence de rentabilité |
 | Date d'acquisition | ? | délais de mise en conformité |
-| Année de construction (approx.) | ? | > 15 ans = éligibilité aides ; > 2 ans = TVA 10 % |
-| Type de construction | ? (pierre / parpaing / pisé / mixte) | traitement des murs, humidité |
+| Année de construction (approx.) | **années 1970–80 estimé** (photos) — à confirmer par l'acte | > 15 ans = éligibilité aides ; > 2 ans = TVA 10 % |
+| Type de construction | **Parpaing enduit** — confirmé photo C-11 (mur décroûté). **Pas de la pierre.** Véranda en pierre reconstituée | traitement des murs, humidité, **supprime la plus-value encastrement pierre** |
 
 ## Surfaces
 
@@ -48,11 +48,11 @@
 
 | Réseau | État | À vérifier |
 |---|---|---|
-| Électricité | câbles coupés par endroits, à localiser | tableau, compteur, contrat Enedis actif ? |
+| Électricité | **Tableau Hager modulaire ~12 modules** (1 rangée) + **compteur électronique ancien, pas un Linky**. Un boîtier mural éventré, conducteurs sur dominos apparents | différentiels 30 mA présents ? contrat Enedis actif ? **Ne pas résilier** |
 | Eau | arrivées coupées par endroits | compteur, contrat, pression, matériau des canalisations |
-| Évacuations / assainissement | ? | **tout-à-l'égout ou ANC ?** (mairie) |
-| Chauffage | ? | énergie disponible, conduit de fumée existant ? |
-| Gaz | ? | citerne, réseau, ou absent |
+| Évacuations / assainissement | **regards de sol ouverts en véranda (3) et au garage (2)** — évoquent une fosse toutes eaux | **photographier l'intérieur des regards** ; à recouper avec le SIEA Est du Libournais |
+| Chauffage | **2 conduits de fumée** en cuisine et garage → appareil à combustion déposé | énergie retenue, état des conduits |
+| Gaz | **présent** : appareil mural à ventouse en cuisine (chauffe-eau ou chaudière) | réseau, citerne ou bouteilles ? âge et état ? diagnostic gaz du DDT |
 | Internet / fibre | ? | |
 
 ## Contraintes réglementaires — à faire remplir par `reno-reglementaire`
@@ -67,13 +67,16 @@
 
 ## État général déclaré
 
-- Sol : **bon état** (à confirmer sur photos)
-- Murs : **probablement à reprendre**
-- Câbles électriques : **certains coupés**
-- Arrivées d'eau : **certaines coupées**
-- Toiture : ?
-- Menuiseries : ?
-- Humidité : ?
+*Mis à jour le 10/08/2026 après la 1re série de photos — voir `01-diagnostic/synthese.md`.*
+
+- Sol : **confirmé bon** — carrelage terre cuite et grès en place partout, aucun désordre visible
+- Murs : **moins dégradés qu'annoncé**. Cosmétique en majorité (papiers peints datés), sauf ~2,5 m² d'enduit décroûté (C-11)
+- Câbles électriques : un boîtier éventré identifié (C-01), réparation triviale
+- Arrivées d'eau : non encore localisées sur photo
+- **Toiture** : tuiles canal, mousses et poussière, **aucune déformation ni tuile manquante visible** sur les 2 faces documentées. Gouttières et descentes en place
+- **Menuiseries** : PVC / alu **double vitrage, en état** → le lot menuiseries extérieures tombe probablement à zéro
+- **Humidité** : tache en partie haute au séjour (C-08), altération généralisée des murs de chambre (C-09), moisissure au plafond de la douche (C-05) → **problème de ventilation plus que d'humidité ascensionnelle**
+- ⚠️ **Structure** : **deux fissures verticales** en véranda, dont une traversante sur toute la hauteur (C-14, C-12). **Point bloquant n° 1.**
 
 ## Budget
 

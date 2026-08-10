@@ -1,0 +1,140 @@
+# État des lieux — synthèse
+
+> Constats établis le **10/08/2026** à partir d'une première série de 15 photos transmises par le maître d'ouvrage.
+> **Analyse faite directement en session** (les photos n'étaient pas sur disque, l'agent `reno-diagnostic-photo` n'a donc pas pu être utilisé).
+> Aucun constat ci-dessous ne vaut expertise sur place.
+
+## Révisions majeures des hypothèses de départ
+
+| Hypothèse initiale | Ce que montrent les photos | Conséquence |
+|---|---|---|
+| Maison **en pierre** ancienne | **Parpaing enduit** (C-11, mur décroûté), murs de véranda en pierre reconstituée. Construction vraisemblablement **années 1970–80** | La plus-value « encastrement en pierre » (+20 à +40 % sur la pose élec, ligne E-01b) **tombe**. Économie directe de plusieurs milliers d'euros |
+| Tableau électrique vétuste à refaire intégralement | **Tableau Hager modulaire**, une rangée, ~11–12 modules | Le lot électricité bascule vers le bas de la fourchette. Base réutilisable, à confirmer |
+| Bien « à peine habitable » | WC, douche, évier, carrelages, menuiseries PVC/alu double vitrage **en place et en état** | Le programme « décent et vivable » est **déjà largement atteint**. On est sur de la remise en service, pas de la création |
+| Risque n°1 = humidité ascendante (bord de rivière) | **Fissure verticale traversante** en véranda (C-14) + taches d'humidité diffuses | Le risque n°1 devient le **mouvement de structure**, cohérent avec l'hypothèse coteau / argiles du volet réglementaire |
+
+---
+
+## Constats par gravité
+
+### BLOQUANT
+
+#### C-14 — Véranda — Fissure verticale traversante
+**Photo** : véranda, mur en pierre reconstituée, à droite de la fenêtre
+**Constat** : fissure verticale unique, **du plafond jusqu'au sol**, ouverture visible à l'œil nu sur toute la hauteur, traversant plusieurs assises de blocs. Elle ne suit pas un joint : elle **coupe les blocs**.
+**Diagnostic** : ce n'est pas une fissure de retrait d'enduit. Une fissure traversante sur toute la hauteur, rectiligne et verticale, traduit un **mouvement différentiel de fondation**. Cohérent avec un **retrait-gonflement des argiles**, risque dominant si le bien est bien sur le coteau (voir `05-reglementaire/cadre.md`).
+**Certitude** : constat certain / cause à confirmer
+**Quantité** : 1 fissure, ~2,20 m linéaires
+**Lot** : structure
+**Action** : **expertise structure sur place, avant tout engagement de travaux.** Poser des témoins (jauges plâtre ou fissuromètres) et relever sur 3 à 6 mois pour savoir si le mouvement est **actif ou stabilisé**. Cette réponse conditionne l'ordre de grandeur : quelques centaines d'euros de rebouchage si stabilisé, reprise en sous-œuvre par micropieux si actif (chantier à cinq chiffres).
+**Ne rien budgéter d'autre sur ce mur avant la réponse.**
+
+#### C-12 — Véranda / façade — Fissure verticale au-dessus de la porte
+**Constat** : seconde fissure verticale, mur enduit blanc, au-dessus et à droite du linteau de la porte verte.
+**Diagnostic** : à mettre en relation avec C-14. **Deux fissures verticales sur le même volume, ce n'est plus une coïncidence** — c'est un faisceau d'indices de mouvement.
+**Certitude** : constat certain / cause à confirmer
+**Action** : à intégrer au même relevé de témoins que C-14.
+
+---
+
+### IMPORTANT
+
+#### C-08 — Séjour / entrée — Tache d'humidité en partie courante
+**Constat** : large tache diffuse, brun clair, sur le mur de droite au-dessus du canapé. En partie **haute et médiane du mur**, pas en pied.
+**Diagnostic** : la position exclut l'humidité ascensionnelle. Oriente vers une **infiltration** (couverture, rive, gouttière) ou de la **condensation**.
+**Certitude** : à vérifier sur place (humidimètre)
+**Lot** : couverture / plâtrerie
+**Action** : localiser au-dessus en toiture avant toute reprise de mur.
+
+#### C-09 — Chambre — Altération généralisée des murs
+**Constat** : les murs présentent un aspect **marbré, gris-brun, sur la quasi-totalité de leur surface**, sur au moins deux murs.
+**Diagnostic** : deux lectures possibles — un revêtement ancien type détrempe qui a fait son temps, ou une **humidité de condensation généralisée** (typique d'une maison fermée, non chauffée, non ventilée). L'homogénéité de l'aspect penche pour la seconde.
+**Certitude** : à vérifier sur place
+**Quantité** : ~35 m² de parois
+**Lot** : plâtrerie / ventilation
+**Action** : humidimètre. **Ne pas doubler ni repeindre avant d'avoir traité la ventilation** — sinon le problème revient sous la peinture neuve.
+
+#### C-05 — Douche — Moisissure au plafond
+**Constat** : taches noires marquées au plafond au-dessus du receveur. Receveur fortement encrassé mais intact. Faïence et robinetterie en place.
+**Diagnostic** : **absence ou insuffisance de ventilation**. Défaut classique et pas cher à traiter, mais qui revient toujours si on ne traite que la surface.
+**Lot** : ventilation / peinture
+**Action** : VMC ou aération mécanique + traitement fongicide. La douche elle-même est **conservable**.
+
+#### C-11 — Mur intérieur — Enduit décroûté sur grande surface
+**Constat** : environ **2 m × 1,2 m** d'enduit retiré, parpaings nus apparents, **deux câbles noirs** courant verticalement dans une saignée ouverte. Coulures brunes en partie basse.
+**Diagnostic** : dépose volontaire, vraisemblablement pour intervention sur les réseaux. **C'est cette zone qui donne l'information la plus utile du dossier : la maison est en parpaing.**
+**Quantité** : ~2,5 m² d'enduit à refaire, plus le rebouchage de saignée
+**Lot** : plâtrerie / électricité
+**Action** : ne refermer qu'**après** arbitrage sur le passage des réseaux.
+
+---
+
+### CONFORT
+
+#### C-03 — Tableau électrique et comptage — **le point favorable du dossier**
+**Constat** : tableau **Hager modulaire**, une rangée, environ **11 à 12 modules** équipés, porte absente. En dessous, dans un placard technique encastré, **compteur électronique ancien — ce n'est pas un Linky**. Prise ancienne à côté, murs en papier peint et faïence.
+**Diagnostic** : on est **très loin** du tableau à fusibles porcelaine redouté. Une installation de ce type date vraisemblablement des **années 1990–2000**. Réserves : une seule rangée pour 85 m² est **sous-dimensionnée** au regard de la NF C 15-100 en vigueur, et **la présence de différentiels 30 mA n'est pas vérifiable** sur la photo.
+**Certitude** : constat certain / conformité à vérifier
+**Action** : photo nette du tableau **capot ouvert et étiquettes lisibles**, et relevé du diagnostic électrique du DDT. Puis arbitrage : mise à niveau du tableau existant plutôt que refonte totale.
+**Impact budgétaire** : c'est le constat qui déplace le plus le budget, **et il le déplace vers le bas**.
+
+#### C-01 — Boîtier mural éventré, conducteurs déconnectés
+**Constat** : boîte d'encastrement ouverte dans un mur enduit lisse, conducteurs bleu / vert-jaune et **dominos apparents, non protégés**. Plinthe carrelée, sol terre cuite.
+**Diagnostic** : c'est un des « câbles coupés » signalés. Point sous tension potentielle laissé accessible.
+**Gravité réelle** : dangereux tant que l'installation peut être remise sous tension, mais **réparation triviale** — une boîte, un connecteur, un cache.
+**Action** : sécuriser dès la première visite.
+
+#### C-02 — Autocommutateur téléphonique Stratel « Stratège 04TV »
+**Constat** : PABX mural analogique, appareillage arraché au-dessus.
+**Diagnostic** : matériel **obsolète, sans valeur d'usage** (le RTC est fermé). Déposer.
+**Action** : dépose simple. À remplacer, si besoin, par un coffret de communication (ligne E-10).
+
+#### C-06 — Cuisine — Appareil gaz mural + conduits
+**Constat** : appareil mural blanc avec **ventouse / conduit d'évacuation**, plus un **second conduit inox de fort diamètre** à gauche. Évier double en grès sur piètement, faïence murale complète, sol terre cuite. Au-delà de la porte verte : lavabo (salle d'eau).
+**Diagnostic** : **il y a — ou il y a eu — du gaz sur ce bien.** Chauffe-eau ou chaudière murale. Le second conduit suggère un **appareil de chauffage à combustion** (poêle ou insert) déposé.
+**Ce constat n'était pas dans les hypothèses de départ et change l'arbitrage énergie.**
+**Action** : établir la nature de l'alimentation — **réseau, citerne ou bouteilles** — l'âge de l'appareil et son état. Demander le **diagnostic gaz du DDT**.
+
+#### C-04 — WC
+**Constat** : cuvette avec réservoir, faïence murale, étagères, petite fenêtre, sol terre cuite. Ensemble **fonctionnel et propre**.
+**Action** : conserver. Nettoyage et abattant. Coût quasi nul.
+
+#### C-13 — Garage / buanderie — Trappes de sol ouvertes
+**Constat** : plafond lambris bois, sol carrelé, **au moins deux trappes de visite ouvertes dans le sol**, canalisations visibles. Conduit inox mural. Bac USTOM (« du Castillonnais et du Réolais »).
+**Diagnostic** : regards techniques — vraisemblablement **assainissement ou vide sanitaire**. À rapprocher des ouvertures constatées en véranda (C-15).
+**Action** : photographier l'intérieur de chaque regard. **C'est peut-être la réponse directe à la question de l'assainissement.**
+
+#### C-15 — Véranda — Ouvertures de sol multiples
+**Constat** : **trois ouvertures rectangulaires** dans le carrelage, dalles de couverture déposées et posées contre le mur. Cheminée en pierre reconstituée.
+**Diagnostic** : la disposition — trois regards alignés, couvercles béton — évoque fortement une **fosse toutes eaux et son ou ses préfiltres**. Si c'est confirmé, **le bien est en assainissement non collectif**, ce qui répond à la question la plus lourde du budget.
+**Action** : **photos de l'intérieur de chaque regard, en priorité absolue.**
+
+---
+
+### COSMÉTIQUE
+
+- **C-07 — Cuisine** : faïence et carrelage en état. Évier ancien mais utilisable. Papiers peints datés dans les pièces sèches.
+- **C-10 — Extérieur, pignon** : enduit sain, tuiles canal, gouttières et descente en place, antenne râteau. Aucun désordre visible **sur cette face**.
+- **C-16 — Véranda extérieure** : structure alu et verre, toiture polycarbonate. Tuiles de la maison **empoussiérées, avec mousses**, mais pas de déformation ni de tuile manquante visible. Parabole. Caniveau de pied de façade en place.
+- **Menuiseries** : PVC ou alu, **double vitrage**, manœuvre correcte sur les vues disponibles. **Le lot menuiseries extérieures, chiffré 6 000 à 11 000 € en pré-estimation, tombe très probablement à zéro.**
+
+---
+
+## Photos manquantes — par ordre d'utilité
+
+1. **L'intérieur des regards de sol** (véranda C-15 et garage C-13). Répond peut-être à la question de l'assainissement, la plus lourde du budget.
+2. **Le tableau électrique, capot ouvert, étiquettes lisibles, net.** Confirme ou infirme la présence de différentiels 30 mA.
+3. **La fissure C-14 en entier**, avec un réglet ou une pièce de monnaie posée dessus pour l'échelle, plus un gros plan de l'ouverture. Idem pour C-12.
+4. **Les 4 façades en entier**, prises d'assez loin pour voir toiture et pied de mur sur la même image — une seule face est documentée.
+5. **La toiture** : les 4 pans, et **les combles depuis l'intérieur** (aucune vue à ce jour).
+6. **L'arrivée d'eau générale et le compteur**, avec 1 m de canalisation visible.
+7. **L'appareil gaz de la cuisine** : plaque signalétique, et **la source** (citerne, coffret de comptage ou bouteilles).
+8. **Les pieds de murs du RDC**, dans chaque pièce.
+9. **Le mur du séjour sous la tache C-08**, en pied, et la toiture au-dessus.
+
+## Ce qui reste à trancher avant tout chiffrage
+
+1. **La fissure est-elle active ?** — conditionne tout. Témoins + 3 à 6 mois, ou expertise.
+2. **Assainissement collectif ou non ?** — les regards, ou le SIEA.
+3. **Le tableau est-il aux normes ?** — DDT ou photo nette.
+4. **Le gaz est-il utilisable ?** — nature de l'alimentation, état de l'appareil.
