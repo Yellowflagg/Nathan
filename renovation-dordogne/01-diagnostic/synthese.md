@@ -239,6 +239,52 @@ Ce que j'avais identifié comme « compteur électronique ancien » sur la photo
 - En attendant, **rentrer les 2 bouteilles isolées dans l'abri**, debout, robinet fermé.
 - Faire vérifier l'appareil gaz mural (C-06) avant tout usage — ou acter sa dépose.
 
+---
+
+## Retours du maître d'ouvrage — 10/08/2026
+
+### C-23 révisé — Le vol est antérieur à l'acquisition
+
+**Information** : les canalisations étaient **déjà coupées au moment de l'achat**.
+
+**Ce que ça change** :
+- Pas de sinistre à déclarer, pas de plainte à déposer, pas d'indemnisation à espérer. **Les actions « assurance » et « plainte » du constat C-23 tombent.**
+- Défaut **apparent** au moment de la vente : la question du vice caché ne se pose pas. Le prix de 60 000 € intègre vraisemblablement cet état.
+
+**Ce que ça ne change pas** :
+- Le **chiffrage** : le réseau reste à reposer, pas à reconnecter. Le lot 02 est inchangé.
+- Le **risque de récidive**. Un bien repéré comme pillable le reste, et il appartient maintenant à l'acquéreur. **La sécurisation reste prioritaire.**
+- La **couverture d'assurance du bien inoccupé** reste à vérifier — non pour le vol passé, mais pour tout ce qui vient (voir aussi C-14 ci-dessous, volet catastrophe naturelle).
+
+### C-19 révisé — Test au colorant : protocole à corriger
+
+**Retour terrain** : aucune eau visible dans les regards ouverts après tirage de la chasse.
+
+**Ce n'est pas un résultat, c'est un défaut de protocole.** Trois causes possibles, toutes corrigibles :
+
+1. **Un regard de visite ne retient pas l'eau.** Il est équipé d'une cunette — un canal en fond — dans lequel l'effluent **transite sans stagner**. En regardant après coup, on ne voit rien. Il faut observer **pendant** le passage.
+2. **Le volume d'une chasse est trop faible** pour parcourir un réseau long, encrassé et à faible pente. Une chasse fait 6 à 9 litres, absorbés par les dépôts.
+3. **Les eaux-vannes ne passent pas par ces regards** — hypothèse principale, cohérente avec le regard resté fermé.
+
+**Protocole corrigé** :
+- **À deux.** L'un tire la chasse et enchaîne les seaux, l'autre est posté au regard et observe en continu.
+- **30 à 50 litres**, pas une chasse. Colorant bien dissous dans le premier seau.
+- **Boucler chaque regard successivement**, en observant les **abouts de canalisation** dans le regard, pas le fond.
+- **Faire le test séparément par point d'eau** — WC, puis évier, puis douche — pour cartographier le réseau plutôt que de le deviner.
+- **Ouvrir le regard fermé en priorité**, à la clé de regard. C'est très probablement lui qui porte la réponse.
+
+**Le regard sec reste une information en soi** : il ne reçoit rien. Boîte de distribution hors service, ou branche abandonnée.
+
+### C-14 révisé — « La fissure était déjà là à l'achat »
+
+**Ce constat ne renseigne pas sur l'activité de la fissure.** Une fissure présente depuis dix ans peut être stabilisée — c'est même le cas le plus fréquent sur une construction des années 1980 — ou continuer à travailler lentement au rythme des cycles de sécheresse. **L'ancienneté et l'activité sont deux choses différentes**, et seule une mesure dans le temps les sépare.
+
+**Position retenue pour le chiffrage** : tant que l'activité n'est pas mesurée, une **provision pour aléa structurel** doit rester au budget. Elle disparaît le jour où le mouvement est prouvé nul — c'est **l'intérêt direct du maître d'ouvrage** de faire la mesure, puisqu'elle allège le budget au lieu de l'alourdir.
+
+**Coût de la mesure : proche de zéro.** Deux témoins plâtre en travers de chaque fissure, ou deux fissuromètres à quelques euros, datés au feutre. Relevé à 3 mois puis à 6 mois, en couvrant si possible un été.
+
+**Volet assurance à ne pas manquer** : le retrait-gonflement des argiles est indemnisable au titre des **catastrophes naturelles**, mais uniquement si une **police multirisque habitation est active au moment de l'événement** et si un arrêté CatNat sécheresse couvre la commune. Un bien laissé sans assurance est un bien qui ne pourra rien réclamer. **C'est la deuxième raison, indépendante du vol, de vérifier la couverture sans attendre.**
+
 ### COSMÉTIQUE
 
 - **C-07 — Cuisine** : faïence et carrelage en état. Évier ancien mais utilisable. Papiers peints datés dans les pièces sèches.
