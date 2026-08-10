@@ -285,6 +285,52 @@ Ce que j'avais identifié comme « compteur électronique ancien » sur la photo
 
 **Volet assurance à ne pas manquer** : le retrait-gonflement des argiles est indemnisable au titre des **catastrophes naturelles**, mais uniquement si une **police multirisque habitation est active au moment de l'événement** et si un arrêté CatNat sécheresse couvre la commune. Un bien laissé sans assurance est un bien qui ne pourra rien réclamer. **C'est la deuxième raison, indépendante du vol, de vérifier la couverture sans attendre.**
 
+---
+
+## Révision majeure — 7 ans de vacance + test à la pluie (10/08/2026)
+
+**Deux faits apportés par le maître d'ouvrage** :
+1. Le bien est **inoccupé depuis 7 ans**, laissé en l'état.
+2. **Orage et fortes pluies la nuit précédente — aucune entrée d'eau constatée nulle part à l'intérieur.**
+
+Ces deux éléments invalident une partie de ma lecture des photos. Ils sont de meilleure qualité qu'une interprétation d'image : l'un est une observation directe, l'autre est un essai en conditions réelles.
+
+### Ce qui tombe — le diagnostic « condensation »
+
+Mon hypothèse d'une humidité de condensation généralisée (constats C-05, C-08, C-09) **reposait sur un raisonnement faux** : j'ai raisonné comme sur une maison habitée. Or **une maison vide ne produit pas de vapeur d'eau**. Pas d'occupants, pas de cuisson, pas de douches, pas de respiration — un foyer génère environ 10 L d'eau par jour, ici zéro depuis 7 ans.
+
+Conséquences, constat par constat :
+
+- **C-05 — plafond de la douche.** Une douche non utilisée depuis 7 ans ne produit aucune vapeur. Les taches sombres sont donc **antérieures à l'abandon**, ou de simples dépôts de poussière et de salissure. **Reclassé COSMÉTIQUE.**
+- **C-09 — murs de chambre marbrés.** Sans source d'humidité, l'aspect marbré s'explique bien plus simplement : **badigeon ou détrempe ancienne qui a vieilli**, plus 7 ans de dépôts. **Reclassé COSMÉTIQUE.** Une mesure à l'humidimètre lèvera le doute en trente secondes, mais ce n'est plus prioritaire.
+- **C-08 — tache du séjour.** L'absence d'entrée d'eau sous un orage indique une **infiltration ancienne, tarie ou reprise**. **Reclassé COSMÉTIQUE**, avec une réserve : une seule nuit de pluie teste une direction de vent et une intensité données, pas toutes les configurations. À revérifier sous une pluie battante d'ouest.
+
+### Ce qui se confirme — l'enveloppe
+
+**Un orage sans une goutte à l'intérieur est un bon test de couverture.** Combiné à l'absence de déformation et de tuile manquante sur les vues disponibles, cela conforte un **lot couverture proche de zéro**. Réserve maintenue tant que les 4 pans et les combles ne sont pas documentés.
+
+### Ce qui se retourne — la VMC devient préventive, pas curative
+
+La recommandation de ventilation **reste valide, pour une raison inverse de celle avancée**.
+
+Aujourd'hui la maison est sèche parce qu'elle est vide. **Le jour où quelqu'un y habite, la production de vapeur redémarre d'un coup** — environ 10 L/jour — dans un bâti des années 1980 sans VMC visible, avec des menuiseries double vitrage étanches. C'est la configuration qui **fabrique** de la condensation.
+
+**La VMC n'est donc pas à chiffrer pour réparer un désordre existant, mais pour ne pas en créer un à l'emménagement.** C'est un poste de quelques centaines d'euros qui évite de repeindre deux fois.
+
+### Ce qui est atténué — l'assainissement
+
+J'ai sur-interprété l'eau noire stagnante des regards comme le signe d'un exutoire saturé. **Après 7 ans sans usage, une eau croupie avec débris et végétation dans un regard, c'est de l'eau de pluie et des feuilles**, pas de l'effluent accumulé. Le diagnostic « système bouché » est retiré.
+
+**Ce qui subsiste, en revanche, c'est la question de la configuration** : fosse recevant les seules eaux-vannes + rejet séparé des eaux ménagères reste non conforme aux règles actuelles, indépendamment de son état de fonctionnement. **Seul le SPANC tranche.**
+
+### Conséquences nouvelles de la vacance — points à instruire
+
+1. **Assurance** — 7 ans d'inoccupation. La quasi-totalité des contrats multirisque **excluent, résilient ou plafonnent très fortement** au-delà de quelques mois de vacance. **À vérifier en priorité** : c'est la condition d'une éventuelle indemnisation CatNat sécheresse (voir C-14) comme de tout sinistre à venir.
+2. **Aides à la remise sur le marché d'un logement vacant** — plusieurs dispositifs (Anah, aides locales, primes communales ou intercommunales) visent spécifiquement les logements vacants depuis plus de 2 ans remis en location. **7 ans de vacance peuvent ouvrir des droits qu'un bien ordinaire n'a pas.** À instruire par `reno-aides` — **conditionné à la réponse sur l'usage prévu du bien, toujours inconnue**.
+3. **Taxe sur les logements vacants** — vérifier si la commune a institué la THLV, et à partir de quand elle courrait.
+4. **Siphons à sec** — après 7 ans, **tous les siphons sont évaporés**. Le réseau d'évacuation communique donc directement avec la fosse, sans garde d'eau. Deux conséquences : les remontées d'odeurs et de gaz sont possibles à l'intérieur, et cela **fausse tout test au colorant** (l'eau versée commence par remplir les siphons avant de circuler — argument supplémentaire pour verser 30 à 50 L).
+5. **Eau stagnante dans le ballon ECS**, s'il est encore en place : **risque légionelle**. Vidange, désinfection et montée en température avant tout usage.
+
 ### COSMÉTIQUE
 
 - **C-07 — Cuisine** : faïence et carrelage en état. Évier ancien mais utilisable. Papiers peints datés dans les pièces sèches.
