@@ -7,8 +7,9 @@
 
 | Champ | Valeur | Pourquoi c'est utile |
 |---|---|---|
-| Commune | ? | PLU, PPRI, SPANC, aides locales |
-| Adresse | ? | interrogation géorisques, mairie |
+| Commune | **Castillon-la-Bataille (33350)** | PLU, PPRI, SPANC, aides locales |
+| Adresse | **2, lieu-dit Robin** | interrogation géorisques, mairie |
+| Intercommunalité | Communauté de communes Castillon–Pujols *(à confirmer)* | aides locales, OPAH éventuelle |
 | Prix d'achat | 60 000 € | référence de rentabilité |
 | Date d'acquisition | ? | délais de mise en conformité |
 | Année de construction (approx.) | ? | > 15 ans = éligibilité aides ; > 2 ans = TVA 10 % |
@@ -18,7 +19,7 @@
 
 | Champ | Valeur |
 |---|---|
-| Surface habitable (m²) | ? |
+| Surface habitable (m²) | **85 m²** |
 | Emprise au sol (m²) | ? |
 | Nombre de niveaux | ? |
 | Nombre de pièces | ? |
